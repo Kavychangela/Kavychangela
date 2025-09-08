@@ -3,7 +3,6 @@
  <h3 align="center">💻 Computer Engineering Student (AI-ML Minor) | Data Analyst Intern | AI/ML & Full-Stack Developer</h3>
 
 ---
-
 ## 🚀 About Me
 
 I'm currently pursuing a Bachelor of Engineering in Computer Engineering at Sinhgad Institute Of Technology, Lonavala, with a minor in AI & ML.  
@@ -14,7 +13,7 @@ Passionate about building impactful projects, I love working on AI chatbots, aut
   • Automated ETL workflows  
   • Delivered actionable insights for faster decision-making
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -23,7 +22,7 @@ Passionate about building impactful projects, I love working on AI chatbots, aut
 **Libraries:** Scikit-learn, TensorFlow, PyTorch, pandas, NumPy, Matplotlib  
 **Tools & Platforms:** Git, Google Cloud Platform, VS Code, IntelliJ, PyCharm, Eclipse
 
----
+
 
 ## 🔥 Featured Projects
 
@@ -39,16 +38,18 @@ Passionate about building impactful projects, I love working on AI chatbots, aut
   *Python, BeautifulSoup, Pandas, SMTP*  
   Automation tool that scrapes product prices and sends email alerts when prices drop.
 
----
 
-## 🌐 Connect With Me
+
+<h2 align="center"> 🌐 Connect With Me </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/kavy-changela-174712288/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="mailto:kavychangela89@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   <a href="https://github.com/Kavychangela"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 </p>
 
----
+
 
 ✨ **Fun Fact:**  
-I love building projects that automate repetitive tasks—saving time while making tech more accessible and efficient!
+<p align="center">I love building projects that automate repetitive tasks—saving time while making tech more accessible and efficient!
+</p>
+<p align="center">If you like my work please do *Star* my Repo:)</p>
