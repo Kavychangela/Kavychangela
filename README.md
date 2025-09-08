@@ -27,7 +27,7 @@ Passionate about building impactful projects, I love working on AI chatbots, aut
 
 ## 🔥 Featured Projects
 
-- [**Aeros.Ai**](https://github.com/Kavychangela/Aeros.Ai)  
+- [**Aeros.Ai**](https://aeros-ai-xmys-kavy-s-projects-26917edf.vercel.app/)  
   *Next.js, React, Node.js, Gemini API, TailwindCSS, Vercel*  
   AI-powered chatbot web application with a modular architecture for future expansion.
 
